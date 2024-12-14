@@ -25,6 +25,10 @@
  }
 
  /* Footer */
+.f-info {
+  display: fixed; 
+}
+
  .f-info-links a {
    text-decoration: none;
    color: #222222;
