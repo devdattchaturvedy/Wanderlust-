@@ -1,5 +1,7 @@
 # 🌍 WanderLust (Airbnb Clone)
 
+> **Note:** The full project code currently exists in the `master` branch. The `main` branch contains this README. Please check the `master` branch for complete source code.
+
 WanderLust is a simplified **Airbnb clone project** built using **Node.js, Express, MongoDB, and EJS**.  
 The app allows users to explore different listings, create their own, and share reviews.  
 
